@@ -53,3 +53,10 @@ Design patterns, in the context of software development, are general and reusabl
 Design patterns provide a structured and commonly accepted approach to solving specific problems in software design. They describe how to organize classes, objects, and relationships between them to achieve an efficient, flexible, and maintainable design.
 
 Design patterns are a valuable tool for software developers as they enable them to address recurring problems efficiently and maintain cleaner, structured, and easily understandable code.
+
+# References
+
+Here are some useful resources where information was obtained:
+
+- [Refactoring Guru - English version](https://refactoring.guru)
+- [Refactoring Guru - spanish version](https://refactoring.guru/es)
